@@ -1,7 +1,7 @@
 # Creating your first Android App
 This tutorial is to get your started with loading up a default Android App and being able to run the application. Note this assumes that you have the sdk installed.
 
-## Get getting started
+## Getting Started
 When you first open up Android Studio, you'll be presented with a welcome screen like so
 ![alt text](https://github.com/savala/tilAndroid/blob/master/firstAndroidApp/screenshots/welcomeScreen.png "Welcome Screen")
 

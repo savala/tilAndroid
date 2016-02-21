@@ -14,7 +14,7 @@ The default activity_main.xml file looks like this:
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="ssa766.myapplication.MainActivity">
+    tools:context="saiavala.myapplication.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
@@ -48,7 +48,7 @@ After this, your activity_main.xml file should finally end up looking like this
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="ssa766.myapplication.MainActivity">
+    tools:context="saiavala.myapplication.MainActivity">
 
     <Button
         android:id="@+id/toastBtn"
@@ -91,7 +91,7 @@ In a button, you set the OnClickListener and override the onClick() function. Th
 Your final MainActivity.java should look like following
 
 ```java
-package ssa766.myapplication;
+package saiavala.myapplication;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

@@ -59,7 +59,7 @@ After this, your activity_main.xml file should finally end up looking like this
 ```
 
 ## Manipulate the button
-Now let's have handle the button actions! Go to MainActivity.java.
+Now let's handle the button actions! Go to MainActivity.java.
 
 Outside of onCreate() declare the button
 

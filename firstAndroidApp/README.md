@@ -58,6 +58,6 @@ With the above line you're essentially enabling the MainActivity.java access to 
 ## Running the App
 Go ahead and press the green "play" button in Android studio. If you have the Android sdk installed and have a virtual device created, then the app should build and then launch. If successful you should see something like this:
 
-![alt text](https://github.com/savala/tilAndroid/blob/master/firstAndroidApp/screenshots/appRun.png "App Run")
+<img src="https://github.com/savala/tilAndroid/blob/master/firstAndroidApp/screenshots/appRun.png" width="300px" height="300px">
 
 And you've just run your first Android App!

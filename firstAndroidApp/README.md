@@ -1,5 +1,5 @@
 # Creating your first Android App
-This tutorial is to get your started with loading up a default Android App and being able to run the application. Note this assumes that you have the sdk installed.
+This tutorial is to get your started with loading up a default Android App and being able to run the application. Note this assumes that you have the sdk installed. If not please feel free to check out the [getting started tutorial](../gettingStarted/README.md).
 
 ## Getting Started
 When you first open up Android Studio, you'll be presented with a welcome screen like so

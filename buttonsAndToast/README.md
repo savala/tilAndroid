@@ -73,7 +73,7 @@ Now instantiate the button within onCreate()
 toastButton = (Button) findViewById(R.id.toastBtn);
 ```
 
-The above line creates a button object which references the <Button/> tag in activity_main.xml whose id is "toastBtn"
+The above line creates a button object which references the "<Button/>" tag in activity_main.xml whose id is "toastBtn"
 
 Now lets create the button handler to show a toast message! While still in onCreate() and below the toastButton instantiation add in the following line.
 

@@ -29,7 +29,7 @@ What we're doing here is creating a ListView with a reference point of "listView
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="ssa766.myapplication.MainActivity">
+    tools:context="saiavala.myapplication.MainActivity">
 
     <ListView
         android:id="@+id/listView"

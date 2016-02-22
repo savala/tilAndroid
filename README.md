@@ -8,4 +8,4 @@ This is a work in progress. If you have an tutorial requests and such, feel free
 1. [Getting Started](gettingStarted/README.md) (Todo)
 2. [First Android App](firstAndroidApp/README.md)
 3. [Buttons and Toast](buttonsAndToast/README.md)
-4. [ListViews](listViews/README.md) (Todo)
+4. [ListViews](listViews/README.md)

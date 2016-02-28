@@ -16,3 +16,6 @@ This is a work in progress so please bear with me. My goal is to have at least t
 
 # Advanced Tutorials
 1. [Android Development Patterns](androidDevelopmentPatterns/README.md) (Todo)
+2. [Custom ListViews](customListViews/README.md) (Todo)
+
+# Advanced Styling

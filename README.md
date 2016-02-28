@@ -11,5 +11,8 @@ This is a work in progress so please bear with me. My goal is to have at least t
 4. [ListViews](listViews/README.md)
 5. [Intents and Passing Data between Multiple Activities](intentsPassingDataMultipleActivities/README.md)
 6. [RecyclerViews](recyclerViews/README.md) (Todo)
+7. [Android Themes](themes/README.md) (Todo)
+8. [Styles](themes/README.md) (Todo)
 
 # Advanced Tutorials
+1. [Android Development Patterns](androidDevelopmentPatterns/README.md) (Todo)

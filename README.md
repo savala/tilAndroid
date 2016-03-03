@@ -22,3 +22,6 @@ This is a work in progress so please bear with me. My goal is to have at least t
 
 # Android Libraries
 1. Picasso
+
+# Contributing
+If you would like to contribute, have any complaints, or just want to reach out feel free contact me, @savala

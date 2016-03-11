@@ -18,7 +18,8 @@ This is a work in progress so please bear with me. My goal is to have at least t
 1. [Android Development Patterns](androidDevelopmentPatterns/README.md) (Todo)
 2. [Custom ListViews](customListViews/README.md) (Todo)
 3. [REST Tutorial](restTutorial/README.md) (Todo)
-4. [Animated Vector Drawables](animatedVectorDrawables/README.md) (Todo)
+4. [Custom Views](customViews/README.md) (Todo)
+5. [Animated Vector Drawables](animatedVectorDrawables/README.md) (Todo)
 
 # Android Libraries
 1. Picasso

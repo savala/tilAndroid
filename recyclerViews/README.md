@@ -1,7 +1,7 @@
 # RecyclerView
 RecyclerViews the new way and improved way to do ListViews. This tutorial assumes that you know how to use ListViews, that you're comfortable with layouts, and can create an "empty" project
 
-# Getting Started
+## Getting Started
 Go ahead and create a new Android Studio project. Set your activity type that's generated to be an Empty Activity.
 
 
@@ -45,3 +45,6 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:23.0.1'
 }
 ```
+
+
+## RecyclerView
